@@ -7,7 +7,7 @@ README about well, me
  - 💻 How to reach me:
     - 1️⃣vendelinfilip73@gmail.com
     - 2️⃣https://twitter.com/VendelinFilip 🐦(Twitter)
-    - 3️⃣https://www.linkedin.com/in/vendelín-filip-88a98b20b
+    - 3️⃣https://www.linkedin.com/in/vendelin-filip/
     - 4️⃣https://www.facebook.com/venda.filip
 
 <!---
