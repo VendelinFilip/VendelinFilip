@@ -1,8 +1,8 @@
 README about well, me
  - 👋 Hey, I’m Vendelín Filip... not an average in dark corner sitting coder.
- - ✍ Working on an online decentralized food sharing fair for students (share-snack.com), sample ordering app for a major baking production company and more.
+ - ✍ Working on an online decentralized food sharing fair for students (share-snack.com) and more.
  - 👀 I’m into anything from coding and programming through biotech, art, design, music to philosophy.
- - 🌱 Currently learning Dart for Flutter, Android development, project management and a lot more.
+ - 🌱 Currently learning Dart for Flutter, Design Thinking, Project Management and a lot more.
  - 💞️ Open to collaborate with anybody on anything, just text me. But mainly projects with a reason and a bigger idea.
  - 💻 How to reach me:
     - 1️⃣vendelinfilip73@gmail.com
