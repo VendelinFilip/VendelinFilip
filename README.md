@@ -5,7 +5,7 @@ README about well, me
  - Open to collaborate with anybody on anything, just text me. But mainly projects with a reason and a bigger idea.
  - 💻 How to reach me:
     - 1️⃣vendelinfilip73@gmail.com
-    - 2️⃣https://twitter.com/VendelinFilip 🐦(Twitter)
+    - 2️⃣https://twitter.com/VendelinFilip 🐦
     - 3️⃣https://www.linkedin.com/in/vendelin-filip/
     - 4️⃣https://www.facebook.com/venda.filip
 
