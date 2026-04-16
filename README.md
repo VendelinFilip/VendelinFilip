@@ -1,8 +1,8 @@
 README about well, me
- - 👋 Hey, I’m Vendelín Filip and I'm interested in way too much stuff. It is probably unhealthy. 
+ - 👋 Hey, I’m Vendelín Filip. 
  - 👀 I’m into anything from coding and programming through biotech, art, design, music to philosophy.
  - 🌱 Currently learning Dart for Flutter, Design Thinking, Project Management and a lot more.
- - Open to collaborate with anybody on anything, just text me. But mainly projects with a reason and a bigger idea.
+ - Open to collaborate with anybody on anything, just text me. 
  - 💻 How to reach me:
     - 1️⃣vendelinfilip73@gmail.com
     - 2️⃣https://twitter.com/VendelinFilip 🐦
